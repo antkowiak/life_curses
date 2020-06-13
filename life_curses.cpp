@@ -179,7 +179,7 @@ void parse_cmd_line(int argc, const char * argv[], size_t& width, size_t& height
     options.push_back(option(option_type::OT_SHORT, option_value_num::OVN_ONE, "h"));
     options.push_back(option(option_type::OT_SHORT, option_value_num::OVN_ONE, "d"));
     options.push_back(option(option_type::OT_SHORT, option_value_num::OVN_ONE, "g"));
-    options.push_back(option(option_type::OT_SHORT, option_value_num::OVN_ONE, "?"));
+    options.push_back(option(option_type::OT_SHORT, option_value_num::OVN_NONE, "?"));
 
     cmdline_options cmd(options);
     cmd.parse(argc, argv);
