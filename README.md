@@ -2,7 +2,7 @@
 Ncurses based console/terminal implementation of Conway's Game of Life
 
 * life_curses.c - Conway's Game of life implementation
-* Written by Ryan Antkowiak (antkowiak@gmail.com)
+* Written by Ryan Antkowiak 
 * April 23, 2020
 * Copyright (c) 2020, All rights reserved.
 *

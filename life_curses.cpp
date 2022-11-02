@@ -1,7 +1,7 @@
 /*
  * life_curses.c - Game of Life implemented with the ncurses library.
  *
- * Written by Ryan Antkowiak (antkowiak@gmail.com)
+ * Written by Ryan Antkowiak 
  *
  * April 23, 2020
  *
